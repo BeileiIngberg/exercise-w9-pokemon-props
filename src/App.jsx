@@ -27,7 +27,7 @@ export const App = () => {
             <Pokemon name={name} /> 
             <Type types={types} />
             <Weaknesses weaknesses={weaknesses} />
-            <br></br>
+            <br />
           </div>
         );
       })}
